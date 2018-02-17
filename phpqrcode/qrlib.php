@@ -8,7 +8,7 @@
  * Copyright (C) 2006, 2007, 2008, 2009 Kentaro Fukuchi <fukuchi@megaui.net>
  *
  * PHP QR Code is distributed under LGPL 3
- * Copyright (C) 2010-2013 Dominik Dzienia <deltalab at poczta dot fm>
+ * Copyright (C) 2010 Dominik Dzienia <deltalab at poczta dot fm>
  *
  * This library is free software; you can redistribute it and/or
  * modify it under the terms of the GNU Lesser General Public
@@ -40,10 +40,4 @@
 	include $QR_BASEDIR."qrrscode.php";
 	include $QR_BASEDIR."qrmask.php";
 	include $QR_BASEDIR."qrencode.php";
-	
-	include $QR_BASEDIR."qrarea.php";
-	include $QR_BASEDIR."qrcanvas.php";
-	include $QR_BASEDIR."qrsvg.php";
-	//
-	
 
